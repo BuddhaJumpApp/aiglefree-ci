@@ -1,4 +1,4 @@
-# CODEMAP — BuddhaJumpApp/aiglefree-ci
+# CODEMAP — fjolskylduoryggisverndar/aiglefree-ci
 
 > File-by-file map of the AigleFree CI repo: five GitHub Actions workflows (one orchestrator, three reusable per-platform builders, one daily MSIX mirror), plus LICENSE and a leftover .gitignore. Identical to `BuddhaJumpApp/buddhajump-ci` except for the two pieces listed at the end. Every claim cites `file:line`.
 
